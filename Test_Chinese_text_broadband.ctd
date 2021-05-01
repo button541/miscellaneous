@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <bookmarks list=""/>
+  <node name="Test_Chinese_text_broadband" unique_id="1" prog_lang="custom-colors" tags="" readonly="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1619884601" ts_lastsave="1619884613">
+    <rich_text>这是一段测试用的文字。
+This is a text for testing.
+
+</rich_text>
+    <rich_text family="monospace">这是一段测试用的文字，这段文字使用了</rich_text>
+    <rich_text>CTRL + M </rich_text>
+    <rich_text family="monospace">快捷键修改了字体的等宽属性。（只修改了中文字体的等宽属性）</rich_text>
+    <rich_text>
+This is a piece of text for testing. This piece of text uses the CTRL + M shortcut key to modify the monospace attribute of the font. (Only the monospace attribute of the Chinese font has been modified)
+
+</rich_text>
+    <rich_text family="monospace">这是一段测试用的文字，对这一段的所有字符使用了CTRL + M快捷键修改了字体的等宽属性。</rich_text>
+    <rich_text>
+This is a piece of text for testing. Use the CTRL + M shortcut key to modify the monospace attribute of the font for all characters in this paragraph.
+
+</rich_text>
+  </node>
+</cherrytree>
